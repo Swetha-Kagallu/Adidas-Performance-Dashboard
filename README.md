@@ -1,5 +1,6 @@
 # Adidas-Performance-Dashboard
 Interactive Excel Dashboard showcasing with KPI tracking, regional analysis, category performance and year-over-year growth insights.
+
 📊 Adidas Sales Dashboard (Excel)
 An interactive Sales Performance Dashboard built in Microsoft Excel to analyze Adidas sales data across states, regions, product categories, and time periods.
 
@@ -23,6 +24,7 @@ Profit: $33,21,34,761
 Profit Margin: 42%
 
 📈 Dashboard Features
+
 1️⃣ State-Level Analysis
 Sales comparison for 2020 vs 2021
 YoY growth percentage
