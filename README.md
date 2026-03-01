@@ -62,9 +62,13 @@ Data Cleaning & Transformation
 
 🎯 Business Use Cases
 Sales performance monitoring
+
 Executive reporting
+
 Regional strategy analysis
+
 Product category optimization
+
 Profitability tracking
 ![Dashboard](https://github.com/user-attachments/assets/2b589c30-2712-418b-8cb4-97812fc46fa9)
 
